@@ -1,4 +1,4 @@
-module github.com/79-artisan/http_req_resp/common
+module github.com/79-artisan/go-zero/common
 
 go 1.20
 
